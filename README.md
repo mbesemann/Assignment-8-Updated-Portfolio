@@ -1,4 +1,4 @@
-# Assignment-8-Updated-Portfolio
+# Assignment 8: Updated Portfolio
 
 Updated portfolio to highlight some recent work.
 
