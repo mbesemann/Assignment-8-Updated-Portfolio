@@ -2,4 +2,4 @@
 
 Updated portfolio to highlight some recent work.
 
-![Screenshot]("assets/screenshot.png")
+![Screenshot](assets/screenshot.png)
